@@ -2,6 +2,15 @@ cff-version: 1.2.0
 message: 'If you use this repository, please cite it using the metadata in this file.'
 title: novel-scientific-gaps-2026-08-04
 type: software
+version: "0.1.0"
+license: SEE_LICENSE_FILE
+keywords:
+  - scientific gaps
+  - structural novelty
+  - autonomous research
+  - ocean research
+  - space research
+  - biology research
 authors:
   - given-names: Haley Ann
     family-names: Bird
@@ -10,4 +19,4 @@ authors:
 repository-code: https://github.com/sENZ5hFx/novel-scientific-gaps-2026-08-04
 url: https://github.com/sENZ5hFx/novel-scientific-gaps-2026-08-04
 date-released: 2026-08-04
-abstract: Autonomous research session: structural novelty synthesis of genuine scientific gaps across ocean, space, earth, biology, humans, land. Timestamped output.
+abstract: "A dated autonomous research-session output synthesizing scientific gaps across ocean, space, earth, biology, humans, and land."
