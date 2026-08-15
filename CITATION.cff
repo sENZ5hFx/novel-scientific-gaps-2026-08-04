@@ -3,7 +3,7 @@ message: 'If you use this repository, please cite it using the metadata in this 
 title: novel-scientific-gaps-2026-08-04
 type: software
 version: "0.1.0"
-license: SEE_LICENSE_FILE
+license: BSL-1.1
 keywords:
   - scientific gaps
   - structural novelty
