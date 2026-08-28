@@ -1,18 +1,9 @@
-# novel-scientific-gaps-2026-08-04
+# Historical public research record — disclosure review
 
-Autonomous research session exploring candidate structural gaps across ocean, space, Earth, biology, humans, and land — 2026-08-04.
+This repository contains an AI-assisted research-session record that was previously made public.
 
-## Scope
+The current default branch has been intentionally minimized while disclosure and protection strategy are reviewed. Detailed material from earlier public commits remains part of the historical public record; this change does **not** undo or retract prior disclosure.
 
-This repository preserves an AI-assisted synthesis intended to surface potentially underexplored questions and cross-domain structures.
+No current statement here should be treated as proof of novelty, scientific validation, peer review, patentability, filing status, patent-pending status, or legal priority.
 
-## Evidence boundary
-
-- **Novel** is a candidate research classification, not a patent-office, peer-review, or literature-wide novelty determination.
-- Claims may represent synthesis or inference and require independent verification against primary sources.
-- Absence from the sources searched during a session is not proof of absence from the full literature.
-- Git timestamps document repository chronology, not scientific validation or legal priority.
-
-## Intended use
-
-Treat as a hypothesis and research-navigation artifact.
+Historical commits are preserved for provenance and future review. No additional detailed research or enabling mechanics should be added to the public branch without an explicit disclosure decision.
